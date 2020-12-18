@@ -1,23 +1,19 @@
-@extends('layouts.app')
+<x-home-master>
 
-@section('content')
-<div class="container">
-    <div class="row justify-content-center">
-        <div class="col-md-8">
-            <div class="card">
-                <div class="card-header">{{ __('Dashboard') }}</div>
+    @section('content')
 
-                <div class="card-body">
-                    @if (session('status'))
-                        <div class="alert alert-success" role="alert">
-                            {{ session('status') }}
-                        </div>
-                    @endif
-
-                    {{ __('You are logged in!') }}
-                </div>
-            </div>
+        <div class="jumbotron text-center">
+            <h1 class="display-3">Welcome</h1>
+            <p class="lead">This page is currently under construction</p>
+            <hr class="my-2">
+            <p>I am currently working on a project, so I will update this page soon.</p>
         </div>
-    </div>
-</div>
-@endsection
+
+
+
+
+
+
+
+    @endsection
+</x-home-master>
