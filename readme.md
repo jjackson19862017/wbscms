@@ -49,3 +49,16 @@ In this section, you should mention all of the languages, frameworks, libraries,
 |   iPhone 11   | Hardware                                                        |          <http://www.apple.com/uk/>          |
 | iPad Pro 12.9 | Hardware                                                        |          <http://www.apple.com/uk/>          |
 |  Macbook Pro  | Hardware                                                        |          <http://www.apple.com/uk/>          |
+
+## Issues
+
+### Using PHPStorm
+
+Never before used this application, so I started to work my way around it and I set everything working.
+SSH
+SFTP
+GIT
+
+Problem came from when I automatically uploaded all the files to the server, overwriting the server copy of .env
+
+Solution: - I restored my droplet as a new droplet and redownloaded the env file and uploaded it to the main laravel server.
