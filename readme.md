@@ -22,7 +22,11 @@ I have now gone to my MacBook Pro, and because I haven't set this up using my us
 
 I have just setup remote access to MYSQL Server via MYSQL Workbench.
 
-Hopefully this demostrates, different ways of solving problems. Knowledge of Github and linux terminal commands as well as setting up a Laravel server, and then updating it to the lasest version. Also MYSQL creating users, granting permissions.
+Hopefully this demonstrates, different ways of solving problems. Knowledge of Github and linux terminal commands as well as setting up a Laravel server, and then updating it to the lasest version. Also MYSQL creating users, granting permissions.
+
+### Security
+
+I have secured it using certbot.
 
 ## Technologies Used
 
@@ -39,6 +43,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 | Digital Ocean | Cloud Platform to Host                                          |        <https://www.digitalocean.com>        |
 |    GITHUB     | Stores my work so that other people and myself can reference it |           <https://www.github.com>           |
 |    VSCODE     | An IDE allowing me to code on my computer                       |       <https://code.visualstudio.com/>       |
+|    PHPStorm   | An IDE allowing me to code on my computer, no experience        |     <https://www.jetbrains.com/phpstorm/>    |
 |    Termius    | App that allows SSH into Server                                 |            <https://termius.com>             |
 |     Koder     | App that allows SSH into Server                                 |            <https://koderapp.com>            |
 |   iPhone 11   | Hardware                                                        |          <http://www.apple.com/uk/>          |
