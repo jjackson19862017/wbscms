@@ -68,3 +68,9 @@ From the upgrade, the "Models" folder was not present.
 Failed Solution: - I created another droplet, that had a LAMP server on it, I then installed Composer, Laravel, I also modified the apache2 folder for virtual hosts.  However after an hour, it wouldn't load the laravel pages just showing the folder view in the browser.
 
 Solution: - Just after to work out the differences between what I have learnt and the older version.
+
+## Frontend
+
+I have decided to add some additional information to the Home and About pages.  This will give more information to people about myself and what I can do.
+
+

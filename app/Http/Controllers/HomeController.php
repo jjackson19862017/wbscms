@@ -30,4 +30,29 @@ class HomeController extends Controller
     {
         return view('about.about');
     }
+
+    public function experience()
+    {
+        return view('about.experience');
+    }
+
+    public function interests()
+    {
+        return view('about.interests');
+    }
+
+    public function piprojects()
+    {
+        return view('about.piprojects');
+    }
+
+    public function applications()
+    {
+        return view('about.applications');
+    }
+
+    public function education()
+    {
+        return view('about.education');
+    }
 }
